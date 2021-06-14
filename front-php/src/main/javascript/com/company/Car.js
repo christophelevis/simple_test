@@ -1,4 +1,4 @@
-var Car = function(brand, model, year) {
+var Car = function(brand, model, year, year) {
 	this.brand = brand;
 	this.model = model;
 	this.year = year;
